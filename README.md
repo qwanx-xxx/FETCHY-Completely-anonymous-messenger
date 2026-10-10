@@ -1,4 +1,4 @@
-                              <img width="805" height="778" alt="logo" src="https://github.com/user-attachments/assets/2451eeba-5e31-4f04-90e4-523af4205617" />
+                             https://ibb.co/7PnSPRY
 
 FETCHY! — Decentralized Anonymous Messenger
 
