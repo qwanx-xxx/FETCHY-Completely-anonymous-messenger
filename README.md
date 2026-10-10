@@ -1,4 +1,5 @@
-                            <a href="https://ibb.co/7PnSPRY"><img src="https://i.ibb.co/hbBgbZ7/logo.png" alt="logo" border="0" /></a>
+                            <img src="https://i.ibb.co/hbBgbZ7/logo.png" alt="logo" />
+
 
 FETCHY! — Decentralized Anonymous Messenger
 
