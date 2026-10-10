@@ -2,35 +2,31 @@
 
 
 
-FETCHY! — Decentralized Anonymous Messenger
+FETCHY! — децентрализованный анонимный мессенджер
+FETCHY! — это инновационный, полностью анонимный мессенджер нового поколения, ориентированный на абсолютную конфиденциальность, независимость пользователей и гибкую кастомизацию. Архитектура приложения полностью исключает необходимость в центральном сервере для хранения данных, передавая полный контроль над перепиской непосредственно в руки пользователей.
 
-FETCHY! is an innovative, fully anonymous next-generation messenger focused on absolute privacy, user independence, and flexible customization. The application's architecture completely eliminates the need for a central data storage server, putting full control of the correspondence directly into the hands of the users.
+Архитектура и безопасность
 
-Architecture and Security
+Главной технической особенностью FETCHY! является децентрализованная модель хостинга на базе Firebase Realtime Database. В отличие от традиционных мессенджеров, где все данные хранятся на серверах компании-разработчика, FETCHY! внедряет концепцию Bring Your Own Database (подключение собственной базы данных).
+Как это работает:
+• Индивидуальные инстансы: Каждая изолированная комната или чат развертывается на отдельном инстансе Firebase.
+• Полный контроль: Пользователи выступают в роли полноценных хостов своих чатов, сохраняя абсолютный контроль над инфраструктурой.
+• Реальное время: База данных обновляется в режиме реального время, обеспечивая мгновенную доставку сообщений без участия промежуточных серверов.
+Криптографическая защита:
+Безопасность данных — главный приоритет FETCHY!. Все текстовые сообщения, медиафайлы и метаданные подвергаются строгому сквозному шифрованию (end-to-end) перед отправкой в Realtime Database. Даже в случае компрометации инстанса Firebase или перехвата трафика злоумышленник получит лишь набор зашифрованных символов, которые невозможно расшифровать без локальных ключей.
 
-The core technical feature of FETCHY! is its decentralized hosting model based on Firebase Realtime Database. Unlike traditional messengers, where all data is stored on the development company's servers, FETCHY! introduces the concept of Bring Your Own Database.
+Ключевые особенности и технологии
 
-How It Works:
+• Абсолютная анонимность: Для регистрации или использования мессенджера не требуются номера телефонов, адреса электронной почты или ссылки на социальные сети. Суверенитет пользователя сохраняется на каждом этапе взаимодействия.
+• Идентификация на основе UUID: Авторизация и поиск пользователей реализованы через безопасную систему криптографически стойких уникальных идентификаторов (UUID). Вы делитесь только тем, чем сами хотите поделиться.
+• Глубокая кастомизация UI/UX: FETCHY! предлагает продвинутую систему настройки интерфейса. Пользователи могут адаптировать визуальный стиль, цветовые схемы, поведение чата и элементы управления под свои индивидуальные предпочтения.
+• Нулевой цифровой след: Мессенджер не собирает телеметрию, не отслеживает IP-адреса и не хранит логи на сторонних ресурсах.
 
-1. Each isolated room or chat is deployed on an individual Firebase instance.
-2. Users act as full hosts of their own chats, maintaining complete control over the infrastructure.
-3. The database updates in real time, ensuring instant message delivery without intermediary servers.
+Варианты использования
 
-Cryptographic Protection:
+FETCHY! идеально подходит для:
+• Журналистов и правозащитников, которым требуются защищенные каналы связи.
+• Защищенных корпоративных и командных обсуждений внутри закрытых инфраструктур.
+• Энтузиастов кибербезопасности и сторонников Web3, ценящих независимость от техногигантов.
+• Разработчиков, желающих изучить интеграцию real-time решений с продвинутыми алгоритмами шифрования.
 
-Data security is the top priority for FETCHY!. All text messages, media files, and metadata undergo strict end-to-end encryption before being sent to the Realtime Database. Even in the event of a Firebase instance compromise or traffic interception, an attacker will only obtain a set of encrypted characters that cannot be decrypted without local keys.
-
-Key Features and Technologies
-
-• Absolute Anonymity: No phone numbers, email addresses, or social media links are required to register or use the messenger. User sovereignty is preserved at every stage of interaction.
-• UUID-Based Identification: Authorization and user discovery are implemented through a secure system of cryptographically strong Universally Unique Identifiers (UUID). You only share what you choose to share.
-• Deep UI/UX Customization: FETCHY! offers an advanced interface customization system. Users can adjust the visual style, color themes, chat behavior, and control elements to match their individual preferences.
-• Zero Digital Footprint: The messenger does not collect telemetry, track IP addresses, or store logs on third-party resources.
-
-Use Cases
-
-FETCHY! is ideal for:
-• Journalists and human rights activists who require secure communication channels.
-• Protected corporate and team discussions within closed infrastructures.
-• Cybersecurity enthusiasts and Web3 advocates who value independence from tech giants.
-• Developers looking to study the integration of real-time solutions with advanced encryption algorithms.
