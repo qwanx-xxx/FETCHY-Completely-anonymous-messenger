@@ -1,5 +1,7 @@
 ![logo](https://i.ibb.co/hbBgbZ7/logo.png)
 
+AI was used in developing the application.
+
 
 
 FETCHY! — децентрализованный анонимный мессенджер
