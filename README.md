@@ -54,16 +54,17 @@
 
 </p>
 <p align="center">
-  <i>Главный экран (светлая тема)</i>
+  <i>Главный экран + чат</i>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="ССЫЛКА_НА_ТВОЙ_СКРИНШОТ_2" alt="Чат" width="800">
+  <img width="1856" height="992" alt="image" src="https://github.com/user-attachments/assets/afc7aab4-d99e-4102-82e5-4c24dc50bb4a" />
+
 </p>
 <p align="center">
-  <i>Интерфейс чата (тёмная тема)</i>
+  <i>Настройки </i>
 </p>
 
 ---
