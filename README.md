@@ -1,3 +1,4 @@
+![Uploading logo.png…]()
 <div align="center">
   <img src="https://img.icons8.com/color/96/000000/burger.png" alt="FETCHY! Logo" width="120" />
   <h1>FETCHY! 🍔</h1>
