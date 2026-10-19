@@ -48,10 +48,10 @@
 
 ## 📸 Скриншоты
 
-*(Сюда вставь свои картинки. Просто перетащи файлы в это окно)*
 
 <p align="center">
-  <img src="ССЫЛКА_НА_ТВОЙ_СКРИНШОТ_1" alt="Главный экран" width="800">
+  <img width="1852" height="992" alt="image" src="https://github.com/user-attachments/assets/4d18dafb-4bec-4bd5-8101-094ef3d5b78a" />
+
 </p>
 <p align="center">
   <i>Главный экран (светлая тема)</i>
