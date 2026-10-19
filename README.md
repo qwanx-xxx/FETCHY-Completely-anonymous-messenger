@@ -5,7 +5,7 @@
   <h1>FETCHY! 🍔</h1>
   <p><b>Анонимный, зашифрованный и безумно красивый мессенджер прямо в браузере.</b></p>
 
-  <img src="https://img.shields.io/badge/version-1.2.2-blue?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version" />
   <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
