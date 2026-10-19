@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="805" height="778" alt="logo" src="https://github.com/user-attachments/assets/40e65fa8-1d9d-423c-802d-cd23a67f56c3" />
+  <img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/40e65fa8-1d9d-423c-802d-cd23a67f56c3" />
 
   <h1>FETCHY! 🍔</h1>
   <p><b>Анонимный, зашифрованный и безумно красивый мессенджер прямо в браузере.</b></p>
